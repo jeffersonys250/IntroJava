@@ -16,8 +16,7 @@ public class Medidas {
     }
 
     public static void calcularAreaModoCurto(){
-
-        System.out.println("Cálculo de Areas Modo Curto");
+        System.out.println("Cáculo de Areas Modo Curto");
 
         // Calculo de área - Reduzido
         int largura = 4;
@@ -29,7 +28,7 @@ public class Medidas {
 
     public static void calcularAreaModoExtenso(){
 
-        System.out.println("Cálculo de Areas Modo Extenso");
+        System.out.println("Cáculo de Areas Modo Extenso");
         // Calculo de área - Exemplo: o tamanho do tapete ou do piso
         int largura;
         int comprimento;
